@@ -1,0 +1,38 @@
+.card{
+    /* background-color: #888;
+    border: 1px solid #fff; */
+    border-radius: 10px;
+    margin: 10%;
+    text-align: center;
+    box-shadow: 3px 3px 10px #121112;
+}
+
+.name{
+    font-weight: 500;
+    font-size: 1.2rem;
+}
+
+.testimonial{
+    margin: 5% 0 0;
+}
+
+.divider-line{
+    width: 70%
+}
+
+.designation{
+    display: block;
+    margin-bottom: 5%;
+}
+
+.rating{
+    display: block;
+    margin: 5% 0;
+}
+
+.testimonial-image{    
+    width: 60%;
+    margin: 0 auto;
+    border-radius: 100%;
+}
+
